@@ -1,3 +1,7 @@
+output "id" {
+    value = azurerm_cosmosdb_account.account.id
+}
+
 output "name" {
     value = azurerm_cosmosdb_account.account.name
 }
