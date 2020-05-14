@@ -6,3 +6,5 @@ variable "name" {
 }
 variable "app_name" { }
 variable "env_name" { }
+variable "secret_prefix" { }
+variable "keyvault_id" { }
