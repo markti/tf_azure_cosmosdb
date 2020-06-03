@@ -7,3 +7,4 @@ variable "name" {
 variable "app_name" { }
 variable "env_name" { }
 variable "failover_location" { }
+variable "keyvault_id" { }
